@@ -1,0 +1,73 @@
+body{
+    background-color:gainsboro;
+}
+.yusuf{
+    background: #fff;
+    background-position: 20%;
+
+    margin:0 auto;
+    padding:0 auto; 
+    margin-top: 100px;
+    padding-bottom: 10px;
+    width: 300px;
+    border-left-width: 0.6%;
+    border-radius:20px;
+    
+}
+
+.yusuf img{
+    margin: 0 auto;
+    width:230px;
+    padding-left:34;
+    margin-top: 8px;
+    margin-left: 35px;
+    /* border-radius:2px; */
+    
+    
+}
+
+.mentor{
+    padding-top: 10px;
+    font-size: 11px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    
+}
+
+p{
+    font-size:10px;
+    text-align:center;
+    color:hsl(228, 45%, 44%);
+}
+
+
+
+@media screen {
+
+    .yusuf{
+        background: #fff;
+        background-position: 20%;
+        margin:0 auto;
+        padding:0 auto; 
+        margin-top: 100px;
+        padding-bottom: 10px;
+        width: 300px;
+        border-left-width: 0.6%;
+        border-radius:20px;
+        
+    }
+    
+    .yusuf img{
+        margin:1px;
+        margin: 0 auto;
+        padding: 0 auto px;
+        width:230px;
+        padding-left:34;
+        margin-top: 8px;
+        margin-left: 35px;
+        border-radius:2ex;
+        border-bottom-right-radius: 7p;
+        
+    }
+    
+}
